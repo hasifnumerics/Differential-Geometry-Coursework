@@ -1,5 +1,8 @@
 # MATH530: Differential Geometry - Comprehensive Solutions
 ![Alt text](https://github.com/hasifnumerics/Differential-Geometry-Coursework/blob/2d587eefa2fe88fdaccbd46c821a6667ca5d1a26/29%20(1).png)
+![Alt text](https://github.com/hasifnumerics/Differential-Geometry-Coursework/blob/32c950daf19443dec823da516b7a1129b67befa0/image%20(1)%20(1).png)
+
+These are visualizations of gauss maps for a cylinder and a plane. Do you want to know what they are and why they look like this?- Then read through this file!
 ## Repository Overview
 
 This repository is a comprehensive collection of my solutions for the MATH530: Differential Geometry course, a 500-level advanced mathematics course. The repository is intended to showcase my analytical and problem-solving skills in the field of differential geometry, particularly for graduate admissions committees and potential employers.
