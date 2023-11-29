@@ -26,7 +26,7 @@ A significant portion of the course was dedicated to applying concepts of differ
 
 ## Repository Content
 
-- **PDF Solutions:** The repository primarily contains PDFs of my carefully thought-out solutions to the course problems. These documents reflect my methodical approach to complex mathematical problems in differential geometry.
+- **PDF Solutions:** The repository primarily contains the comprehensive [pdf](https://github.com/hasifnumerics/Differential-Geometry-Coursework/blob/021d58ec8a278be46d26e66df727badc89c80a1e/M530_Solutions.pdf) of my carefully thought-out solutions to the course problems. These documents reflect my methodical approach to complex mathematical problems in differential geometry
 
 ## Purpose and Audience
 
