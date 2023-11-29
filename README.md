@@ -1,1 +1,36 @@
-# Differential-Geometry-Coursework
+# MATH530: Differential Geometry - Comprehensive Solutions
+
+## Repository Overview
+
+This repository is a comprehensive collection of my solutions for the MATH530: Differential Geometry course, a 500-level advanced mathematics course. The repository is intended to showcase my analytical and problem-solving skills in the field of differential geometry, particularly for graduate admissions committees and potential employers.
+
+## Course Content
+
+The course covered a wide array of topics within differential geometry, including:
+
+- **Tensor Calculus:** Deep dives into the fundamentals and applications of tensor calculus in differential geometry.
+- **Gauss Maps:** Exploration and visualization techniques for Gauss maps, integral to understanding geometric surfaces.
+- **Weingarten Maps:** Detailed analysis of Weingarten maps and their role in computing curvatures.
+- **Minimal Surfaces:** Investigative approaches to finding and understanding minimal surfaces.
+- **Gauss's Theorem:** Comprehensive studies on Gauss's Theorem and its implications in geometry.
+- **Spectral Theorem for Hermitian Operators:** Examination of the spectral theorem in the context of Hermitian operators.
+- **Dual Spaces and Symmetric Polynomials:** Insights into the structures and applications of dual spaces and symmetric polynomials.
+- **Differential Forms:** In-depth discussions on the use and significance of differential forms in geometry.
+
+## Special Focus: General Relativity and Differential Geometry
+
+A significant portion of the course was dedicated to applying concepts of differential geometry to general relativity. Key achievements in this area include:
+
+- **Solutions to Geodesic Equations:** Detailed solutions and interpretations of geodesic equations in the context of general relativity.
+- **Schwarzschild Metric Tensors:** Problems and solutions involving Schwarzschild metric tensors, contributing to a deeper understanding of spacetime geometry.
+
+## Repository Content
+
+- **PDF Solutions:** The repository primarily contains PDFs of my carefully thought-out solutions to the course problems. These documents reflect my methodical approach to complex mathematical problems in differential geometry.
+
+## Purpose and Audience
+
+This repository serves as a testament to my analytical abilities and my proficiency in advanced mathematical concepts, tailored for:
+
+- **Graduate Admissions Committees:** Demonstrating my readiness and suitability for advanced studies in mathematics and related fields.
+- **Prospective Employers:** Showcasing my problem-solving skills and my ability to tackle complex theoretical concepts, relevant in various research and applied mathematics roles.
