@@ -1,5 +1,5 @@
 # MATH530: Differential Geometry - Comprehensive Solutions
-
+![Alt text](https://github.com/hasifnumerics/Differential-Geometry-Coursework/blob/2d587eefa2fe88fdaccbd46c821a6667ca5d1a26/29%20(1).png)
 ## Repository Overview
 
 This repository is a comprehensive collection of my solutions for the MATH530: Differential Geometry course, a 500-level advanced mathematics course. The repository is intended to showcase my analytical and problem-solving skills in the field of differential geometry, particularly for graduate admissions committees and potential employers.
